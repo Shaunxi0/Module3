@@ -1,0 +1,66 @@
+
+h1 {
+    background-color: rgb(226, 214, 226);
+    text-align:center;
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    color:violet
+}
+
+h2 {
+    text-align: center ;
+    font-size: 30px;
+    text-decoration: underline;
+
+}
+
+h3 {    
+    text-align: center;
+
+}
+p{
+    text-align: center;
+}
+
+body {
+    background-color: rgb(245, 235, 222);
+}
+
+button {
+    
+    font-family: 'Courier New', Courier, monospace;
+    background-color:violet;
+    font-size: 16px;
+    padding: 10px 15px;
+    
+
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.resume{
+    font-size: 38px;
+
+}
+
+.home{
+    border-radius: 10px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+
+
+}
+
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(226, 214, 226);
+}
+
+.special {
+    color:violet;
+    font-size: 29px;
+}
